@@ -1,0 +1,42 @@
+PODS:
+  - flutter_libserialport (0.0.1):
+    - FlutterMacOS
+    - libserialport
+  - flutter_tts (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - libserialport (0.1.1)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_libserialport (from `Flutter/ephemeral/.symlinks/plugins/flutter_libserialport/macos`)
+  - flutter_tts (from `Flutter/ephemeral/.symlinks/plugins/flutter_tts/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - shared_preferences_foundation (from `Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - libserialport
+
+EXTERNAL SOURCES:
+  flutter_libserialport:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_libserialport/macos
+  flutter_tts:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_tts/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  shared_preferences_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin
+
+SPEC CHECKSUMS:
+  flutter_libserialport: d1a505fd4b05785f7b50cc7c93b361937ea1c5bd
+  flutter_tts: 64651204e5d276ffea5a910f942d5e9785a96085
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  libserialport: 1cb25e66ef3c92a8e59c2ea3820302c3fa2268cd
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+
+PODFILE CHECKSUM: 9ebaf0ce3d369aaa26a9ea0e159195ed94724cf3
+
+COCOAPODS: 1.15.2
